@@ -1,2 +1,1 @@
-# EjercicioFutbol
-Ignacio
+# EjercicioFutbol de Ignacio P
